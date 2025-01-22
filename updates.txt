@@ -1,0 +1,17 @@
+;aiu;
+
+[Update]
+Name = Actualizador
+ProductVersion = 1.0.2.0
+URL = https://github.com/bernardoph19/actualizador-/Actualizador.exe
+Size = 13779512
+SHA256 = 30D32D84591C3BB5D05A13AA29892DFD584A764CB183B5E92B1768E0CB04AA02
+MD5 = 8a9c7277fe0014080d3d125ffa1edcec
+ServerFileName = Actualizador.exe
+Flags = Critical
+RegistryKey = HKUD\Software\Actualizador\Actualizador\Version
+Version = 1.0.2.0
+Description = Coll new Features
+Feature = many
+Enhancement = best enhancements in the world
+BugFix = what  are those?

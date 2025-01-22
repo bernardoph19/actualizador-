@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOCUMENT Type="Advanced Installer" CreateVersion="22.3" version="22.3" Modules="update" RootPath="." Language="sq" Id="{F2FB3419-A0C3-4B37-9B1E-F333514D5926}">
+  <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
+    <ROW Path="&lt;AI_DICTS&gt;aiu-ue.ail"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.UpdaterEditorComponent">
+    <ROW Section="Update" Key="Name" Value="Actualizador"/>
+    <ROW Section="Update" Key="ProductVersion" Value="1.0.2.0" ValueLocId="-"/>
+    <ROW Section="Update" Key="URL" Value="https://github.com/bernardoph19/actualizador-/Actualizador.exe" ValueLocId="-"/>
+    <ROW Section="Update" Key="Size" Value="..\Actualizador3-AnyCPU_Debug-SetupFiles\Actualizador.exe" ValueLocId="-"/>
+    <ROW Section="Update" Key="SHA256" Value="..\Actualizador3-AnyCPU_Debug-SetupFiles\Actualizador.exe" ValueLocId="-"/>
+    <ROW Section="Update" Key="MD5" Value="..\Actualizador3-AnyCPU_Debug-SetupFiles\Actualizador.exe" ValueLocId="-"/>
+    <ROW Section="Update" Key="ServerFileName" Value="Actualizador.exe" ValueLocId="-"/>
+    <ROW Section="Update" Key="Flags" Value="Critical" ValueLocId="-"/>
+    <ROW Section="Update" Key="RegistryKey" Value="HKUD\Software\Actualizador\Actualizador\Version" ValueLocId="-"/>
+    <ROW Section="Update" Key="Version" Value="1.0.2.0" ValueLocId="-"/>
+    <ROW Section="Update" Key="Description" Value="Coll new Features"/>
+    <ROW Section="Update" Key="Feature" Value="many"/>
+    <ROW Section="Update" Key="Enhancement" Value="best enhancements in the world"/>
+    <ROW Section="Update" Key="BugFix" Value="what  are those?"/>
+    <ATTRIBUTE name="OutputFileName" value=".txt"/>
+  </COMPONENT>
+</DOCUMENT>
