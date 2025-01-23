@@ -1,0 +1,17 @@
+;aiu;
+
+[Update]
+Name = pruebas
+ProductVersion = 2.0.0.0
+URL = https://github.com/bernardoph19/actualizador-/pruebas.exe
+Size = 13885088
+SHA256 = 22B884FEBC1618BF61105E85567D91A21E5E05ACD760CFDB5737E09B1FCFDF4F
+MD5 = 4884834a2f8245235cc143a4c51f4e11
+ServerFileName = pruebas.exe
+Flags = Critical|Os64
+RegistryKey = HKUD\Software\INNOVATED S.A.C\pruebas\Version
+Version = 2.0.0.0
+Description = wgewgewgewgw
+Feature = emjoras
+Enhancement = lorems
+BugFix = priuebas
