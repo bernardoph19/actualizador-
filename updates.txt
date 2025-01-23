@@ -1,0 +1,17 @@
+;aiu;
+
+[Update]
+Name = pruebas
+ProductVersion = 2.0.0.0
+URL = https://github.com/bernardoph19/actualizador-/blob/main/pruebas.exe
+Size = 13928608
+SHA256 = F2DA174237199CDBE91DFDE50427FBCAC3F37E7736D67A410A09E49D174B287C
+MD5 = 623ab73dc3d6fceaea9e4d77f324d42a
+ServerFileName = pruebas.exe
+Flags = Critical|Os64
+RegistryKey = HKUD\Software\INNOVATED S.A.C\pruebas\Version
+Version = 2.0.0.0
+Description = w3tgw34t 42t23 t23t
+Feature =  2t324t 23r32 t32tr23t
+Enhancement =  3t32t32 f23tr32r
+BugFix = 32r32r 232r 23
