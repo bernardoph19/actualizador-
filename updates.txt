@@ -1,17 +1,17 @@
 ;aiu;
 
 [Update]
-Name = Actualizador
-ProductVersion = 1.0.2.0
-URL = https://github.com/bernardoph19/actualizador-/Actualizador.exe
-Size = 13779512
-SHA256 = 30D32D84591C3BB5D05A13AA29892DFD584A764CB183B5E92B1768E0CB04AA02
-MD5 = 8a9c7277fe0014080d3d125ffa1edcec
-ServerFileName = Actualizador.exe
-Flags = Critical
-RegistryKey = HKUD\Software\Actualizador\Actualizador\Version
-Version = 1.0.2.0
-Description = Coll new Features
-Feature = many
-Enhancement = best enhancements in the world
-BugFix = what  are those?
+Name = pruebas
+ProductVersion = 2.0.0.0
+URL = https://github.com/bernardoph19/actualizador-/pruebas.exe
+Size = 13918752
+SHA256 = 4BC01638B1B23E5097FFC02CEBFD0FA9C820C8913F5A4D1F7A8D38506CA37DE9
+MD5 = 4066d57ba1e6be1c77288bb2791e1f4d
+ServerFileName = pruebas.exe
+Flags = Critical|Os64
+RegistryKey = HKUD\Software\INNOVATED S.A.C\pruebas\Version
+Version = 2.0.0.0
+Description = coll new features
+Feature = pruebas
+Enhancement = rqrq
+BugFix = qwrwq
